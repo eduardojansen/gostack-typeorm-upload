@@ -3,6 +3,6 @@
 node_modules/
 build/
 temp/
-
+.DB_Store
 tmp/*
 !tmp/.gitkeep
